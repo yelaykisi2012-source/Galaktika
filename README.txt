@@ -273,6 +273,7 @@ Keyin browser’da:
 Variant C — hosting:
 
 - spaceedu.html faylini hostingga joylashtiring.
+- Netlify uchun _redirects faylini ham shu papkaga joylashtiring: u asosiy / manzilida spaceedu.html faylini ochadi, index.html talab qilinmaydi.
 - Hosting unknown routes uchun shu HTML faylni qaytarishi kerak.
 - Masalan /404 yoki /missing-page URL’lari ham spaceedu.html ga fallback qilishi kerak.
 - Shunda client-side JavaScript noma’lum route’ni aniqlab LGPSM 404 ekranini chiqaradi.
